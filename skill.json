@@ -1,0 +1,20 @@
+{
+  "name": "genpark-raft-snapshot-compaction-install-skill",
+  "version": "1.0.0",
+  "description": "Raft state machine log compaction and incremental chunked InstallSnapshot synchronization",
+  "category": "Service",
+  "dependencies": [],
+  "topics": [
+    "mcp",
+    "raft-snapshot",
+    "log-compaction",
+    "state-machine",
+    "install-snapshot",
+    "distributed-storage",
+    "python-standard-library",
+    "agent-skills",
+    "consensus",
+    "high-availability",
+    "catch-up-sync"
+  ]
+}
